@@ -1,0 +1,9 @@
+{
+    "name": "o365",
+    "description": "Deploy o365 on Heroku.",
+    "keywords": ["o365"],
+    
+    "website": "https://github.com/testnobody/o365",
+    "repository": "https://github.com/testnobody/o365",
+    "stack": "container"
+}
